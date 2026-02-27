@@ -1,0 +1,19 @@
+.mr{
+    color: green;
+    font-size: 20px;
+}
+h3{
+    font-size: 35px;
+    color: red;
+    text-decoration: underline;
+}
+img{
+    position: relative;
+    bottom: 160px;px ;
+    left: 400px;
+    margin-right: 400px;
+    width: 600px;
+    height: 600px;
+}
+    
+    
